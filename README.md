@@ -50,7 +50,7 @@ raw .mat files
 
 ## Notes
 
-- Paths are currently hardcoded to `C:/Users/santh/battery-rul-project/...`.
+- Paths are currently hardcoded to `C:/Users/***/battery-rul-project/...`.
   Update these if running on a different machine.
 - `capacity_delta` was found to leak target information into the SOH model
   and was removed from the feature set used for RUL prediction.
